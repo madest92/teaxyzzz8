@@ -1,2 +1,2 @@
-# tea-xyz1
+# teaxyzzz1
 Testnet https://app.tea.xyz/
